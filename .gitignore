@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/attendance.db
+data/known_faces/*.jpg
+reports/*.xlsx
+reports/*.csv

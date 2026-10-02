@@ -1,0 +1,12 @@
+numpy
+opencv-python
+pandas
+openpyxl
+sqlalchemy>=2.0
+insightface
+onnxruntime
+streamlit
+anthropic
+# Optional (heavy, only if you enable emotion detection in config.py):
+# deepface
+# tf-keras
